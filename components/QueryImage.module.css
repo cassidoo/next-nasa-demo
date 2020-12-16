@@ -1,0 +1,8 @@
+.query {
+  margin: 10px;
+  text-align: center;
+}
+
+.query input {
+  height: 30px;
+}
