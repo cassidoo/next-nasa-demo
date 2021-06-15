@@ -21,7 +21,7 @@ export function useQuery(passed) {
     return () => {
       current = false
     }
-  }, [planet])
+  }, [passed])
 
   return planet
 }
